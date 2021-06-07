@@ -18,5 +18,7 @@
       
  $1 represents the first argument when you execute a file on the commanline
  
+ To execute: `bash Hello.sh Brian`
+ 
  Keep practicing you are doing quite well with python, polish it up.
       
